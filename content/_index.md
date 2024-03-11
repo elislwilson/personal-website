@@ -1,9 +1,9 @@
 ---
-title: "Hugo Apéro"
-subtitle: "A Hugo theme you'll want to hang out with"
-description: "Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic, we wanted to create a polished Hugo theme with the right features for a true personal website. We set out to create a theme that is a pleasure to learn, and one that helps others get to know you better. It is more than a blog, with flexible custom layouts that help you introduce yourself online."
+title: "Elis Wilson"
+subtitle: "Data Scientist | Statistician"
+description: "Elis is currently studying for an MSc Statistics at the University of Warwick. He has a BSc (Hons) in Mathematics from the Unversity of Exeter."
 images:
-  - img/revoir.jpg
+  - static/full_body.jpg
 image_left: true
 text_align_left: false
 show_social_links: true # specify social accounts in site config
