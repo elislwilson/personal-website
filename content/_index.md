@@ -1,16 +1,17 @@
 ---
 title: "Elis Wilson"
 subtitle: "Data Scientist | Statistician"
-description: "Elis is currently studying for an MSc Statistics at the University of Warwick. He has a BSc (Hons) in Mathematics from the Unversity of Exeter."
+description: "Elis is currently studying for an MSc Statistics at the University of Warwick. His research interests focus on developing methods for the reweighting of clinical trials. He has a BSc in Mathematics from the University of Exeter."
+
 images:
   - static/full_body.jpg
-image_left: true
-text_align_left: false
+image_right: true
+text_align_right: false
 show_social_links: true # specify social accounts in site config
 show_action_link: true
 action_link: /about
-action_label: "Read More &rarr;"
-action_type: text # text, button
+action_label: "CV"
+action_type: button # text, button
 type: home
 ---
 
