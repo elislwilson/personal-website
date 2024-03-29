@@ -1,10 +1,11 @@
 ---
 title: "Elis Wilson"
-subtitle: "Data Scientist | Statistician"
-description: "Elis is currently studying for an MSc Statistics at the University of Warwick. His research interests focus on developing methods for the reweighting of clinical trials. He has a BSc in Mathematics from the University of Exeter."
+subtitle: "Medical Statistician"
+description: "Elis is currently studying for an MSc Statistics at the University of Warwick. His primary research interests include reweighting methods and treatment-switching in clinical trials. Elis is also interested in student engagement, having worked across both student unions and university projects."
 
 images:
-  - static/full_body.jpg
+  - full_body.jpg
+
 image_right: true
 text_align_right: false
 show_social_links: true # specify social accounts in site config
