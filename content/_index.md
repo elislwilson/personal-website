@@ -6,13 +6,14 @@ description: "Elis is currently studying for an MSc Statistics at the University
 images:
   - full_body.jpg
 
-image_right: true
-text_align_right: false
+image_left: false
+text_align_left: false
 show_social_links: true # specify social accounts in site config
+
 show_action_link: true
-action_link: /about
 action_label: "CV"
 action_type: button # text, button
+action_link: /CV.pdf
 type: home
 ---
 
